@@ -24,11 +24,13 @@
 
 | Project | What it does | Built with |
 |---|---|---|
-| 🛒 **[Retail Transactions Analysis](LINK-TO-REPO)** | Dug into a retail dataset to find where the money comes from: revenue by country, top products, basket size, revenue per customer, monthly trends | SQL Server · Python · Jupyter |
+| 🛒 **[Retail Transactions Analysis](https://github.com/luislarrinaga1/checkout-intelligence-bi)** | Dug into a retail dataset to find where the money comes from: revenue by country, top products, basket size, revenue per customer, monthly trends | SQL Server · Python · Jupyter |
+
+<!--
 | 📊 **[Daily Business Questions](LINK-TO-REPO)** | A growing collection of real business questions, each one taken from raw data to recommendation | SQL · Python · Excel · Power BI · Tableau |
 
 ---
-
+-->
 ### 🧰 My toolbox
 
 <p>
