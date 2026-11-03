@@ -2,13 +2,12 @@
 <h3 align="center">I turn messy data into answers a business can actually use.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Business+Analytics+%40+GCU;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;One+business+question+a+day+%F0%9F%93%8A;Open+to+data+analytics+internships!" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Business+Analytics+%40+GCU;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;One+business+question+a+day+%F0%9F%93%8A;Open+to+data+projects!" alt="Typing intro" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2EA44F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Projects-2EA44F?style=for-the-badge" />
 </p>
 
 ---
@@ -48,8 +47,8 @@
 ### 📈 My GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&theme=github_dark" height="160" />
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=true&theme=github-dark-blue" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luislarrinaga1&show_icons=true&hide_border=true&theme=github_dark" height="160" />
+  <img src="https://streak-stats.demolab.com?user=luislarrinaga1&hide_border=true&theme=github-dark-blue" height="160" />
 </p>
 
 ---
