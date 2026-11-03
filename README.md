@@ -16,10 +16,8 @@
 ### 🙋 About me
 
 - 🎓 Business Analytics student at **Grand Canyon University**
-- 🏢 Facilities Operations Assistant by day: I keep campus operations running, so I think about data from the business side first
 - 📦 Built an inventory system from scratch for a retail store, so I know what "the data is a mess" really means
 - 🧠 Currently on a mission: **solve one real business question every day**, start to finish
-- 🎯 Looking for a **data analytics internship** where I can ship useful work fast
 
 ---
 
@@ -29,7 +27,6 @@
 |---|---|---|
 | 🛒 **[Retail Transactions Analysis](LINK-TO-REPO)** | Dug into a retail dataset to find where the money comes from: revenue by country, top products, basket size, revenue per customer, monthly trends | SQL Server · Python · Jupyter |
 | 📊 **[Daily Business Questions](LINK-TO-REPO)** | A growing collection of real business questions, each one taken from raw data to recommendation | SQL · Python · Excel · Power BI · Tableau |
-| 📦 **[Store Inventory Tracker](LINK-TO-REPO)** | Excel inventory system I built for a real store to track stock and flag what to reorder | Excel |
 
 ---
 
